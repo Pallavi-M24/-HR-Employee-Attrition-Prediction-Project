@@ -35,11 +35,15 @@ To build a predictive system that analyzes employee data and identifies key fact
 8. Model explainability using SHAP
 9. Data visualization using Power BI
 
-
 ## Machine Learning Model
 
 * Algorithm used: Random Forest Classifier
 * Accuracy achieved: approximately 85%
+
+ ## Results
+- Model Accuracy: **85%**
+- Confusion Matrix used for evaluation
+- SHAP Explainability for feature interpretation
 
 ## Key Insights
 
